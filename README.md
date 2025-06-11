@@ -1,18 +1,55 @@
-## Getting Started
+# 📝 NotepadProject
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+A Java-based custom Notepad clone built using **Swing GUI**. It includes additional features beyond the default Notepad app.
 
-## Folder Structure
+---
 
-The workspace contains two folders by default, where:
+## 🚀 Features
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+- ✅ Open, edit, and save `.txt` files
+- ✅ Word and character count
+- ✅ Tabbed interface for multiple files
+- ✅ Autosave functionality
+- ✅ Custom `WrapTextPane` for smooth line wrapping
+- ✅ Dark theme and font formatting options
+- ✅ Clean GUI using `JFrame`, `JTextPane`, `JMenuBar`
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+---
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
+## 🧰 Technologies Used
 
-## Dependency Management
+- Java (Swing)
+- Java Timer (for autosave)
+- VS Code for development
 
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+---
+
+## 📂 Project Structure
+NotepadProject/
+│
+├── bin/ # Compiled .class files
+├── lib/ # (If any libraries are used)
+├── src/ # Source code files
+│ ├── AdvancedNotepad.java
+│ └── WrapTextPane.java
+├── .vscode/ # VS Code settings
+├── README.md
+
+---
+
+## 🛠️ How to Run
+
+1. Open terminal in the `src/` directory.
+2. Compile:
+   ```bash
+   javac AdvancedNotepad.java
+3. Run:
+   java AdvancedNotepad
+   
+
+---
+
+## 👩‍💻 Author
+
+**J Keerthana**  
+(https://github.com/keerthana12hv)
