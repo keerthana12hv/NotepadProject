@@ -2,8 +2,6 @@
 
 A Java-based custom Notepad clone built using **Swing GUI**. It includes additional features beyond the default Notepad app.
 
----
-
 ## 🚀 Features
 
 - ✅ Open, edit, and save `.txt` files
@@ -14,15 +12,11 @@ A Java-based custom Notepad clone built using **Swing GUI**. It includes additio
 - ✅ Dark theme and font formatting options
 - ✅ Clean GUI using `JFrame`, `JTextPane`, `JMenuBar`
 
----
-
 ## 🧰 Technologies Used
 
 - Java (Swing)
 - Java Timer (for autosave)
 - VS Code for development
-
----
 
 ## 📂 Project Structure
 NotepadProject/  
@@ -35,8 +29,6 @@ NotepadProject/
 ├── .vscode/ # VS Code settings  
 ├── README.md
 
----
-
 ## 🛠️ How to Run
 
 1. Open terminal in the `src/` directory.
@@ -48,3 +40,7 @@ NotepadProject/
 ## 👩‍💻 Author
 J Keerthana 
 https://github.com/keerthana12hv
+
+## 📜 Copyright
+
+© 2025 keerthana12hv. All rights reserved.
