@@ -25,14 +25,14 @@ A Java-based custom Notepad clone built using **Swing GUI**. It includes additio
 ---
 
 ## 📂 Project Structure
-NotepadProject/
-│
-├── bin/ # Compiled .class files
-├── lib/ # (If any libraries are used)
-├── src/ # Source code files
-│ ├── AdvancedNotepad.java
-│ └── WrapTextPane.java
-├── .vscode/ # VS Code settings
+NotepadProject/  
+│  
+├── bin/ # Compiled .class files  
+├── lib/ # (If any libraries are used)  
+├── src/ # Source code files  
+│   ├── AdvancedNotepad.java  
+│   └── WrapTextPane.java  
+├── .vscode/ # VS Code settings  
 ├── README.md
 
 ---
@@ -40,16 +40,11 @@ NotepadProject/
 ## 🛠️ How to Run
 
 1. Open terminal in the `src/` directory.
-2. Compile:
+2. Compile and run:
    ```bash
    javac AdvancedNotepad.java
-3. Run:
    java AdvancedNotepad
-   
-
----
 
 ## 👩‍💻 Author
-
-**J Keerthana**  
-(https://github.com/keerthana12hv)
+J Keerthana 
+https://github.com/keerthana12hv
